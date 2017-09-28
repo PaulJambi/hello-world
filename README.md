@@ -1,2 +1,3 @@
 # hello-world
-My first repository and intro to the world.
+I'm learning the ropes of front-end dev, and now Github!
+
